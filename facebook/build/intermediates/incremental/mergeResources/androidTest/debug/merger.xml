@@ -28,7 +28,7 @@
     <item name="android:layout_height">36dp</item>
   </style><style name="com_facebook_button_like" parent="com_facebook_button">
         <item name="android:background">@drawable/com_facebook_button_like_background</item>
-    </style><color name="com_facebook_button_send_background_color">#0084ff</color><string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string><style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+    </style><color name="com_facebook_button_send_background_color">#0084ff</color><string name="com_facebook_loginview_log_in_button_long">5초만에 페이스북으로 로그인 하기</string><style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
         <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
         <item name="android:drawableLeft">@null</item>
         <item name="android:textColor">#4b5164</item>

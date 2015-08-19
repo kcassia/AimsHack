@@ -2,6 +2,34 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\계현\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.1\3b8b2740d5f8680a9eac6f6f726925988059fccd\androidannotations-api-3.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8b2740d5f8680a9eac6f6f726925988059fccd">
+        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.1-e4161287fcb55c06fd7d1c5566f5e697f87ca341.jar" />
+    </item>
+    <item
+        jar="C:\Users\계현\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-ada3e9727aaace803e7509a0e68f1e1c698acc3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2a1628aa31dcdbd5cba1cb4c189f1022b0bc624e.jar" />
+    </item>
+    <item
+        jar="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-ec7b31e149b2e0cbf562a721ed303ad569e41d40.jar" />
+    </item>
+    <item
         jar="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -21,34 +49,6 @@
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
         <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-931021e47b8a70e3151a62afa267421a216ee825.jar" />
-    </item>
-    <item
-        jar="C:\Users\계현\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-ada3e9727aaace803e7509a0e68f1e1c698acc3c.jar" />
-    </item>
-    <item
-        jar="C:\Users\계현\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.1\3b8b2740d5f8680a9eac6f6f726925988059fccd\androidannotations-api-3.3.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b8b2740d5f8680a9eac6f6f726925988059fccd">
-        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.1-e4161287fcb55c06fd7d1c5566f5e697f87ca341.jar" />
-    </item>
-    <item
-        jar="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-ec7b31e149b2e0cbf562a721ed303ad569e41d40.jar" />
-    </item>
-    <item
-        jar="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\계현\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2a1628aa31dcdbd5cba1cb4c189f1022b0bc624e.jar" />
     </item>
 
 </items>
