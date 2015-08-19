@@ -1,0 +1,127 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#FFFFFF"
+    android:id="@+id/time_table">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/time_title_alphabet"/>
+        <include layout="@layout/time" android:id="@+id/time_Z"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_A"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_B"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_C"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_D"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_E"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_F"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_G"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time" android:id="@+id/time_H"/>
+        <include layout="@layout/time"/>
+        <include layout="@layout/time"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/monday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/monday_title"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tuesday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/tuesday_title"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/wednesday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/wednesday_title"/>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/thursday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/thursday_title"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/friday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/friday_title"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/saturday"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/saturday_title"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/time" android:id="@+id/time_title_digit"/>
+        <include layout="@layout/time" android:id="@+id/time_0"/>
+        <include layout="@layout/time" android:id="@+id/time_0_5"/>
+        <include layout="@layout/time" android:id="@+id/time_1"/>
+        <include layout="@layout/time" android:id="@+id/time_1_5"/>
+        <include layout="@layout/time" android:id="@+id/time_2"/>
+        <include layout="@layout/time" android:id="@+id/time_2_5"/>
+        <include layout="@layout/time" android:id="@+id/time_3"/>
+        <include layout="@layout/time" android:id="@+id/time_3_5"/>
+        <include layout="@layout/time" android:id="@+id/time_4"/>
+        <include layout="@layout/time" android:id="@+id/time_4_5"/>
+        <include layout="@layout/time" android:id="@+id/time_5"/>
+        <include layout="@layout/time" android:id="@+id/time_5_5"/>
+        <include layout="@layout/time" android:id="@+id/time_6"/>
+        <include layout="@layout/time" android:id="@+id/time_6_5"/>
+        <include layout="@layout/time" android:id="@+id/time_7"/>
+        <include layout="@layout/time" android:id="@+id/time_7_5"/>
+        <include layout="@layout/time" android:id="@+id/time_8"/>
+        <include layout="@layout/time" android:id="@+id/time_8_5"/>
+        <include layout="@layout/time" android:id="@+id/time_9"/>
+        <include layout="@layout/time" android:id="@+id/time_9_5"/>
+        <include layout="@layout/time" android:id="@+id/time_10"/>
+        <include layout="@layout/time" android:id="@+id/time_10_5"/>
+        <include layout="@layout/time" android:id="@+id/time_11"/>
+        <include layout="@layout/time" android:id="@+id/time_11_5"/>
+        <include layout="@layout/time" android:id="@+id/time_12"/>
+        <include layout="@layout/time" android:id="@+id/time_12_5"/>
+        </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="table_system_setting">
+        CREATE TABLE system_setting(
+            key varchar(55) not null,
+            value varchar(55) not null,
+            category varchar(55) not null,
+            type varchar(15) not null,
+            description varchar(255) not null,
+            PRIMARY KEY(key)
+        )
+    </string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="start_up_module_class_list">
+        {
+            "size" : 4 ,
+
+            "s0" : "net.wherewhat.matereal.persistence.DatabaseFactory" ,
+            "s1" : "net.wherewhat.matereal.persistence.SerializableAdapterFactory" ,
+            "s2" : "net.wherewhat.matereal.persistence.DaoFactory" ,
+            "s3" : "net.wherewhat.matereal.setting.SystemSettingRepository"
+        }
+    </string>
+
+    <string name="default_system_setting"><![CDATA[
+        {
+            "version" :
+                {
+                    "value" : "1" ,
+                    "category" : "system" ,
+                    "type" : "display" ,
+                    "description" : null
+                }
+            ,
+
+            "start_url" :
+                {
+                    "value" : \"http://www.naver.com\" ,
+                    "category" : "system" ,
+                    "type" : "display" ,
+                    "description" : null
+                }
+        }
+        ]]></string>
+
+    <string-array name="dao_class_name_list">
+        <item>net.wherewhat.matereal.persistence.dao.AndroidSystemSettingDaoImpl</item>
+    </string-array>
+
+</resources>

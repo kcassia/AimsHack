@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- sqls for SystemSetting -->
+    <string name="system_setting_select_all">
+        SELECT *
+        FROM system_setting
+    </string>
+
+    <string name="system_setting_select">
+        SELECT *
+        FROM system_setting
+        WHERE key = ?
+    </string>
+
+    <string name="system_setting_insert">
+        INSERT INTO system_setting(key , value , category , type , description)
+        VALUES(? , ? , ? , ? , ?)
+    </string>
+    
+</resources>
