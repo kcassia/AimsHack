@@ -42,7 +42,7 @@ public class MainActivity extends android.app.Activity {
 
         String url = repository.getStringValue("start_url");
 
-        webViewFragment =   WebViewFragment.newInstance(url);
+        webViewFragment = WebViewFragment.newInstance(url);
 
         FragmentTransaction ft = getFragmentManager().beginTransaction();
 

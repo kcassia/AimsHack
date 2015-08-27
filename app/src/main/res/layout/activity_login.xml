@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="horizontal" android:layout_width="match_parent"
+    android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background_aimshack">
+    android:background="#53E3A6">
 
-    <com.facebook.login.widget.LoginButton
-        android:id="@+id/login_button"
-        android:textSize="20sp"
-        android:textColor="#53E3A6"
-        android:textStyle="normal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:gravity="center"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginRight="50dp"
-        android:layout_marginBottom="95dp"
-        android:background="@android:color/white"/>
+        <TextView
+            android:id="@+id/tt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="130dp"
+            android:layout_gravity="center_horizontal"
+            android:text="AimsHack"
+            android:textSize="44sp"
+            android:typeface="sans"
+            android:textColor="@android:color/white"
+            android:textIsSelectable="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="for Ajou Univ Students"
+            android:textSize="20sp"
+            android:textColor="@android:color/white"
+            android:typeface="serif"
+            android:layout_margin="20dp"/>
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="130dp"
+            android:text="5초만에 페이스북으로 로그인 하기"
+            android:textColor="@android:color/white"/>
+
 
 </LinearLayout>

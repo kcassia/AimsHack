@@ -24,6 +24,7 @@
         <activity
             android:name=".activity.MainActivity_"
             android:screenOrientation="portrait" />
+        <activity android:name=".activity.LoginActivity" />
         <activity android:name=".activity.WebViewActivity"/>
         <activity android:name="com.facebook.FacebookActivity"
             android:configChanges=
