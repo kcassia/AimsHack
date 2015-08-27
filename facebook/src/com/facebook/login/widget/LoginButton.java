@@ -26,6 +26,7 @@ import android.content.DialogInterface;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.os.Bundle;
 import android.util.AttributeSet;
@@ -554,7 +555,7 @@ public class LoginButton extends FacebookButtonBase {
         if (isInEditMode()) {
             // cannot use a drawable in edit mode, so setting the background color instead
             // of a background resource.
-            setBackgroundColor(getResources().getColor(R.color.com_facebook_blue));
+            setBackgroundColor(getResources().getColor(Color.WHITE));
             // hardcoding in edit mode as getResources().getString() doesn't seem to work in
             // IntelliJ
             loginText = "5초만에 페이스북으로 로그인 하기";
@@ -590,7 +591,7 @@ public class LoginButton extends FacebookButtonBase {
                 defStyleRes);
         try {
             confirmLogout = a.getBoolean(R.styleable.com_facebook_login_view_com_facebook_confirm_logout, true);
-            loginText = a.getString(R.styleable.com_facebook_login_view_com_facebook_login_text);
+            loginText = "5초만 ㅂ에 페이스북으로 로그인 하기";
             logoutText = a.getString(R.styleable.com_facebook_login_view_com_facebook_logout_text);
             toolTipMode = ToolTipMode.fromInt(a.getInt(
                     R.styleable.com_facebook_login_view_com_facebook_tooltip_mode,

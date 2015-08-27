@@ -9,11 +9,11 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/aimshack"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".IntroActivity"
+            android:name=".activity.IntroActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -22,17 +22,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity_"
+            android:name=".activity.MainActivity_"
             android:screenOrientation="portrait" />
-        <activity android:name=".LoginActivity_" />
-        <activity android:name=".WebViewActivity"/>
+        <activity android:name=".activity.WebViewActivity"/>
         <activity android:name="com.facebook.FacebookActivity"
             android:configChanges=
                 "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:label="@string/app_name" />
 
-        <receiver android:name=".TimeTableWidget" >
+        <receiver android:name=".widget.TimeTableWidget" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
