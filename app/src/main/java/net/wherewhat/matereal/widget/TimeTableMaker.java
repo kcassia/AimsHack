@@ -2,7 +2,6 @@ package net.wherewhat.matereal.widget;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.util.Log;
 import android.view.View;
 import android.widget.RemoteViews;
 
@@ -212,8 +211,6 @@ public class TimeTableMaker {
             default:
         }
         times[index] = new RemoteViews(context.getPackageName(), layout);
-        Log.d("Lecture Name", String.valueOf(lecture.getName()));
-        Log.d("Lecture Color", String.valueOf(colorSelector % COLOR_NUM));
         switch(colorSelector % COLOR_NUM)
         {
             case 0:
@@ -277,7 +274,6 @@ public class TimeTableMaker {
 
         while (tokenizer.hasMoreTokens()) {
             String temp = tokenizer.nextToken();
-            Log.d("Lecture Temp", String.valueOf(temp));
             if (temp.equals("name")) {
                 if (name != null) {
                     HashSet<LectureTime> lectureTimes = new HashSet<>();
