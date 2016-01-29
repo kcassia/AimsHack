@@ -30,7 +30,6 @@ public class WebViewActivity extends android.app.Activity{
         CookieManager cookieManager = CookieManager.getInstance();
         cookieManager.setAcceptThirdPartyCookies(webView, true);
         String cookieStr = cookieManager.getCookie("http://aimshack.in");
-        Log.d(getClass().getSimpleName(), cookieStr);
         webView.loadUrl("http://aimshack.in");
     }
 

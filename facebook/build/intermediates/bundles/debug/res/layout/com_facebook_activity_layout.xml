@@ -24,4 +24,4 @@
              android:id="@+id/com_facebook_fragment_container"
              android:layout_width="match_parent"
              android:layout_height="match_parent"/>
-<!-- From: file:/C:/Users/계현/AndroidStudioProjects/AimsHack/facebook/res/layout/com_facebook_activity_layout.xml -->
+<!-- From: file:/D:/AndroidStudioProjects/AimsHack/facebook/res/layout/com_facebook_activity_layout.xml -->
