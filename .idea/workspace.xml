@@ -10,243 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e5fa68-502e-4e48-8dca-d63383910693" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/androidannotations_api_3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bolts_android_1_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bolts_android_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/facebook_android_sdk_4_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\app.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\IntroActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\Lecture.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\LectureTime.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\LoginActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\TimeTableMaker.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\TimeTableWidget.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\WebViewActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\app\src\main\java\net\wherewhat\matereal\WebViewFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\classes\androidTest\debug\com\facebook\test\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\manifests\tmp\manifestMerger1193060066535777921.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\manifests\tmp\manifestMerger5146180398295744644.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\build\intermediates\manifests\tmp\manifestMerger6989199753878368117.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\AimsHack\facebook\facebook.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/outputs/aar/facebook-debug.aar" afterPath="$PROJECT_DIR$/facebook/build/outputs/aar/facebook-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/facebook/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AimsHack.iml" afterPath="$PROJECT_DIR$/AimsHack.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java" afterPath="$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_activity_layout.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_activity_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_activity_layout.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_activity_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_activity_layout.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_activity_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_like_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_like_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_like_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_like_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_login_silver_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_login_silver_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_login_silver_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_login_silver_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_login_silver_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_login_silver_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_send_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/com_facebook_button_send_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_send_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/com_facebook_button_send_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_send_background.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/com_facebook_button_send_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_login_fragment.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_login_fragment.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_login_fragment.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_tooltip_bubble.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/com_facebook_tooltip_bubble.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_tooltip_bubble.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/com_facebook_tooltip_bubble.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_tooltip_bubble.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/com_facebook_tooltip_bubble.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_blue_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_blue_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_blue_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_blue_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_blue_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_blue_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_blue_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_blue_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_blue_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_blue_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_blue_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_blue_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_blue_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_blue_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_blue_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_large.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/layout/messenger_button_send_white_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/layout/messenger_button_send_white_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_small.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/layout/messenger_button_send_white_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_white_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_white_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_white_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_white_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_white_bg_round.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_white_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_white_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/drawable/messenger_button_white_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_white_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/drawable/messenger_button_white_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_white_bg_selector.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/drawable/messenger_button_white_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-af/values-af.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-af/values-af.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-af/values-af.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-af/values-af.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-af/values-af.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-af/values-af.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-bn/values-bn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-bn/values-bn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-bn/values-bn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-bn/values-bn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-bn/values-bn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-bn/values-bn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-da/values-da.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-da/values-da.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-da/values-da.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-da/values-da.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-da/values-da.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-da/values-da.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-el/values-el.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-el/values-el.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-el/values-el.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-el/values-el.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-el/values-el.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-el/values-el.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-es-rES/values-es-rES.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-es-rES/values-es-rES.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-es-rES/values-es-rES.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-es-rES/values-es-rES.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-es-rES/values-es-rES.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-es-rES/values-es-rES.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-gu/values-gu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-gu/values-gu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-gu/values-gu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-gu/values-gu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-gu/values-gu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-gu/values-gu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hi/values-hi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hi/values-hi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hi/values-hi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hr/values-hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hr/values-hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hr/values-hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-hu/values-hu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-hu/values-hu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-hu/values-hu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-id/values-id.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-id/values-id.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-id/values-id.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-id/values-id.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-id/values-id.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-id/values-id.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-in/values-in.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-in/values-in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-in/values-in.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-in/values-in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-in/values-in.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-in/values-in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-kn/values-kn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-kn/values-kn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-kn/values-kn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-kn/values-kn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-kn/values-kn.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-kn/values-kn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ml/values-ml.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ml/values-ml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ml/values-ml.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ml/values-ml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ml/values-ml.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ml/values-ml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-mr/values-mr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-mr/values-mr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-mr/values-mr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-mr/values-mr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-mr/values-mr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-mr/values-mr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ms/values-ms.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ms/values-ms.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ms/values-ms.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ms/values-ms.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ms/values-ms.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ms/values-ms.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-nb/values-nb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-nb/values-nb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-nb/values-nb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pa/values-pa.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pa/values-pa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pa/values-pa.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pa/values-pa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pa/values-pa.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pa/values-pa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pt-rPT/values-pt-rPT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pt-rPT/values-pt-rPT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pt-rPT/values-pt-rPT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-sk/values-sk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-sk/values-sk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-sk/values-sk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-sv/values-sv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-sv/values-sv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-sv/values-sv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ta/values-ta.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-ta/values-ta.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ta/values-ta.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-ta/values-ta.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ta/values-ta.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-ta/values-ta.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-te/values-te.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-te/values-te.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-te/values-te.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-te/values-te.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-te/values-te.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-te/values-te.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-th/values-th.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-th/values-th.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-th/values-th.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-th/values-th.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-th/values-th.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-th/values-th.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-tl/values-tl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-tl/values-tl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-tl/values-tl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-tr/values-tr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-tr/values-tr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-tr/values-tr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-vi/values-vi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-vi/values-vi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-vi/values-vi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rCN/values-zh-rCN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rCN/values-zh-rCN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rHK/values-zh-rHK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rHK/values-zh-rHK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rHK/values-zh-rHK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/facebook/build/intermediates/res/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AimsHack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -291,8 +61,8 @@
       <file leaf-file-name="TimeTableWidget.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6317016">
-              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.8018868">
+              <caret line="77" column="125" selection-start-line="77" selection-start-column="125" selection-end-line="77" selection-end-column="125" />
               <folding>
                 <element signature="docComment;class#TimeTableWidget#0" expanded="true" />
               </folding>
@@ -302,53 +72,53 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_intro.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="time_4.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -2692,6 +2462,18 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimsHack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -2957,22 +2739,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AimsHack" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="LGF520S15dc743b" />
@@ -3165,7 +2935,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32796487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3259587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3173,7 +2943,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24903226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3218,6 +2988,110 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#TimeTableWidget#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#TimeTableMaker#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#WebViewFragment#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#MainActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="docComment;class#LoginActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;class#WebViewActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
           <folding>
             <element signature="docComment;class#TimeTableWidget#0" expanded="true" />
@@ -3226,47 +3100,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableMaker.java">
@@ -3310,14 +3184,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_web.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java">
@@ -3331,14 +3205,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_web.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java">
@@ -3366,135 +3240,135 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_2.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_3.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_6.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_8.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_table.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_table.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="79.82353">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_web.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_web.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.352941">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_4.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/activity/WebViewActivity.java">
@@ -3549,8 +3423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/wherewhat/matereal/widget/TimeTableWidget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6317016">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.8018868">
+          <caret line="77" column="125" selection-start-line="77" selection-start-column="125" selection-end-line="77" selection-end-column="125" />
           <folding>
             <element signature="docComment;class#TimeTableWidget#0" expanded="true" />
           </folding>

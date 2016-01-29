@@ -73,13 +73,9 @@ public class TimeTableWidget extends AppWidgetProvider {
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":990,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1050}," +
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":1050,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1110}," +
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":1110,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1170}]}," +
-                "{\"id\":787,\"name\":\"모바일프로그래밍1\",\"professor\":\"신현준\",\"major\":\"사이버보안전공(과)\",\"credit\":4,\"lectureCode\":\"M041\",\"lectureTimeSet\":[" +
-                "{\"lectureId\":787,\"dayOfWeek\":2,\"time\":810,\"runningTime\":90,\"lectureRoom\":산B103,\"endTime\":900}," +
-                "{\"lectureId\":787,\"dayOfWeek\":4,\"time\":810,\"runningTime\":90,\"lectureRoom\":산B103,\"endTime\":900}," +
-                "{\"lectureId\":787,\"dayOfWeek\":4,\"time\":900,\"runningTime\":60,\"lectureRoom\":산420,\"endTime\":960}," +
-                "{\"lectureId\":787,\"dayOfWeek\":4,\"time\":960,\"runningTime\":60,\"lectureRoom\":산420,\"endTime\":1020}]}," +
-                "{\"id\":2721,\"name\":\"보안진로탐색1\",\"professor\":\"홍만표\",\"major\":\"사이버보안전공(과)\",\"credit\":1,\"lectureCode\":\"X616\",\"lectureTimeSet\":[" +
-                "{\"lectureId\":2721,\"dayOfWeek\":2,\"time\":840,\"runningTime\":60,\"lectureRoom\":\"팔111\",\"endTime\":900}]," +
+                "{\"id\":1351,\"name\":\"컴퓨터비젼\",\"professor\":\"김동윤\",\"major\":\"소프트웨어및컴퓨터공학전공(과)\",\"credit\":3,\"lectureCode\":\"X016\",\"lectureTimeSet\":[" +
+                "{\"lectureId\":1351,\"dayOfWeek\":2,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":900}," +
+                "{\"lectureId\":1351,\"dayOfWeek\":4,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":900}]}," +
                 "{\"id\":2607,\"name\":\"사회봉사실천2\",\"professor\":김춘아,\"major\":\"교양과목\",\"credit\":1,\"lectureCode\":\"X017\",\"lectureTimeSet\":[]}," +
                 "{\"id\":1351,\"name\":\"사회봉사이론\",\"professor\":\"김춘아\",\"major\":\"교양과목\",\"credit\":1,\"lectureCode\":\"X016\",\"lectureTimeSet\":[" +
                 "{\"lectureId\":1351,\"dayOfWeek\":1,\"time\":990,\"runningTime\":90,\"lectureRoom\":\"성135\",\"endTime\":1080}]}]}}}";
