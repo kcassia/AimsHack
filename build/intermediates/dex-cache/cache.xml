@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\kcass_001\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.1\3b8b2740d5f8680a9eac6f6f726925988059fccd\androidannotations-api-3.3.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b8b2740d5f8680a9eac6f6f726925988059fccd">
-        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.1-0b322016fc88149b6c9147cd6aa3be2744407d78.jar" />
-    </item>
-    <item
-        jar="C:\Users\kcass_001\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="C:\Users\kcassia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a4134d66c7042b8d900fad3b5959286a5a16a7c6.jar" />
-    </item>
-    <item
-        jar="C:\Users\kcass_001\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-5b74eb025c787ca1198cfcf7060ca07fcca0160a.jar" />
-    </item>
-    <item
-        jar="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-99b2f115e19219d35999ca1c02f5cc8087cac416.jar" />
+        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-10f36b8ad011534a56cc24fb65bf265b7f13485e.jar" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
@@ -37,11 +16,32 @@
         <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c5a3ebfcec98104d85354e1c871c93b3699118c5.jar" />
     </item>
     <item
+        jar="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-99b2f115e19219d35999ca1c02f5cc8087cac416.jar" />
+    </item>
+    <item
+        jar="C:\Users\kcassia\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-db0199675de727f6ff2b03c0cbc904dbb150aaeb.jar" />
+    </item>
+    <item
         jar="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
         <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\classes-cc98171edc672f2a71dcd19acca9f6ba96c5757f.jar" />
+    </item>
+    <item
+        jar="C:\Users\kcassia\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.1\3b8b2740d5f8680a9eac6f6f726925988059fccd\androidannotations-api-3.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8b2740d5f8680a9eac6f6f726925988059fccd">
+        <dex dex="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.1-3de095638cecf2d673cf95689e9c8282513ea5a0.jar" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\AimsHack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"

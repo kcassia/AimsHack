@@ -59,11 +59,11 @@ public class TimeTableWidget extends AppWidgetProvider {
         String response = "{\"code\":200,\"message\":null,\"result\":{\"timetable\":{\"semester\":\"16-1\",\"lectureList\":[" +
                 "{\"id\":747,\"name\":\"데이터베이스\",\"professor\":\"변광준\",\"major\":\"소프트웨어및컴퓨터공학전공(과)\",\"credit\":3,\"lectureCode\":\"X077\",\"lectureTimeSet\":[" +
                 "{\"lectureId\":747,\"dayOfWeek\":1,\"time\":720,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":810}," +
-                "{\"lectureId\":747,\"dayOfWeek\":3,\"time\":720,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":810}]}," +
+                "{\"lectureId\":747,\"dayOfWeek\":4,\"time\":720,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":810}]}," +
                 "{\"id\":2659,\"name\":\"오픈소스SW입문\",\"professor\":\"null\",\"major\":\"소프트웨어및컴퓨터공학전공(과)\",\"credit\":3,\"lectureCode\":\"X572\",\"lectureTimeSet\":[" +
                 "{\"lectureId\":2659,\"dayOfWeek\":3,\"time\":990,\"runningTime\":60,\"lectureRoom\":\"팔325\",\"endTime\":1050}," +
-                "{\"lectureId\":2659,\"dayOfWeek\":3,\"time\":1050,\"runningTime\":60,\"lectureRoom\":\"팔325\",\"endTime\":1110}," +
-                "{\"lectureId\":2659,\"dayOfWeek\":3,\"time\":1110,\"runningTime\":60,\"lectureRoom\":\"팔325\",\"endTime\":1170}]}," +
+                "{\"lectureId\":2659,\"dayOfWeek\":3,\"time\":1050,\"runningTime\":60,\"lectureRoom\":\"팔410\",\"endTime\":1110}," +
+                "{\"lectureId\":2659,\"dayOfWeek\":3,\"time\":1110,\"runningTime\":60,\"lectureRoom\":\"팔410\",\"endTime\":1170}]}," +
                 "{\"id\":2672,\"name\":\"SW캡스톤디자인\",\"professor\":\"손태식\",\"major\":\"소프트웨어및컴퓨터공학전공(과)\",\"credit\":6,\"lectureCode\":\"X578\",\"lectureTimeSet\":[" +
                 "{\"lectureId\":2672,\"dayOfWeek\":0,\"time\":900,\"runningTime\":90,\"lectureRoom\":\"팔325\",\"endTime\":990}," +
                 "{\"lectureId\":2672,\"dayOfWeek\":0,\"time\":990,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1050}," +
@@ -73,12 +73,14 @@ public class TimeTableWidget extends AppWidgetProvider {
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":990,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1050}," +
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":1050,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1110}," +
                 "{\"lectureId\":2672,\"dayOfWeek\":2,\"time\":1110,\"runningTime\":60,\"lectureRoom\":\"팔334\",\"endTime\":1170}]}," +
-                "{\"id\":1351,\"name\":\"컴퓨터비젼\",\"professor\":\"김동윤\",\"major\":\"소프트웨어및컴퓨터공학전공(과)\",\"credit\":3,\"lectureCode\":\"X016\",\"lectureTimeSet\":[" +
-                "{\"lectureId\":1351,\"dayOfWeek\":2,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":900}," +
-                "{\"lectureId\":1351,\"dayOfWeek\":4,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"팔409\",\"endTime\":900}]}," +
+                "{\"id\":1351,\"name\":\"모파일프로그래밍1\",\"professor\":\"신현준\",\"major\":\"소셜미디어전공(과)\",\"credit\":3,\"lectureCode\":\"M041\",\"lectureTimeSet\":[" +
+                "{\"lectureId\":1351,\"dayOfWeek\":2,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"산B103\",\"endTime\":900}," +
+                "{\"lectureId\":1351,\"dayOfWeek\":4,\"time\":810,\"runningTime\":90,\"lectureRoom\":\"산B103\",\"endTime\":900}," +
+                "{\"lectureId\":1351,\"dayOfWeek\":4,\"time\":900,\"runningTime\":60,\"lectureRoom\":\"산420\",\"endTime\":960}," +
+                "{\"lectureId\":1351,\"dayOfWeek\":4,\"time\":960,\"runningTime\":60,\"lectureRoom\":\"산420\",\"endTime\":1020}]}," +
                 "{\"id\":2607,\"name\":\"사회봉사실천2\",\"professor\":김춘아,\"major\":\"교양과목\",\"credit\":1,\"lectureCode\":\"X017\",\"lectureTimeSet\":[]}," +
-                "{\"id\":1351,\"name\":\"사회봉사이론\",\"professor\":\"김춘아\",\"major\":\"교양과목\",\"credit\":1,\"lectureCode\":\"X016\",\"lectureTimeSet\":[" +
-                "{\"lectureId\":1351,\"dayOfWeek\":1,\"time\":990,\"runningTime\":90,\"lectureRoom\":\"성135\",\"endTime\":1080}]}]}}}";
+                "{\"id\":2605,\"name\":\"사회봉사이론\",\"professor\":\"김춘아\",\"major\":\"교양과목\",\"credit\":1,\"lectureCode\":\"X016\",\"lectureTimeSet\":[" +
+                "{\"lectureId\":2605,\"dayOfWeek\":1,\"time\":990,\"runningTime\":90,\"lectureRoom\":\"성135\",\"endTime\":1080}]}]}}}";
 
         ArrayList<Lecture> lectures = TimeTableMaker.parseResponse(response);
 
